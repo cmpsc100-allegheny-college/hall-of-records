@@ -1,13 +1,13 @@
 
 | Date              |          |
 |:------------------|:---------|
-| `todo` | Assigned |
-| `todo`| Due      |
+| 1 November 2023| Assigned |
+| 6 November 2023 | Due      |
 | Status            | [![GatorGrader](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml) |
 
 # DATA DONE, MAYOR DECREES DECISIVE DEED: CITIZENS TO COMPUTE REPRESENTATIVE RESIDENT CRITERIA
 
-**Reported by `Official Mayor-Endorsed News` on `todo`**g
+**Reported by `Official Mayor-Endorsed News`**
 
 Maintaining a healthy community is _everyone's job_ and so is neighborhood surveillance! As the Mayor 
 described to O.M.E.N. (Offical Mayor Endorsed News), "I, your Mayor, look to you, the great citizens
@@ -24,7 +24,7 @@ In this set of activities we cover:
 * `dictionary` data structures
 * a review of `list`s and `iteration` (`for`/`while` loops)
 * revisiting `functions`
-* exploring more basic data science
+* exploring more fundamental data science
 
 You'll complete one main task, supported by three sub-tasks:
 
@@ -35,9 +35,25 @@ You'll complete one main task, supported by three sub-tasks:
 
 As with `datamart`, there are plenty of opportunities for improvements to how you find various statistics about the data. Keep an open mind and a keen eye to the particularly annoying inconveniences of the `Processor` program.
 
-### Previous Learning Objectives
+### Learning Outcomes
 
-If you wish to review previous learning objectives from our assignments, you can visit the [`Syllabus`](https://chompe.rs/100-syllabus) for helpful information. However, it's also important to make an effort to retain what we have covered thus far as we progress through the course sections of the Readme might be taken out.
+In this assignment you will learn:
+- Using `dictionary` data structure in Python
+
+You will also continue to practice:
+- Writing Python functions
+- Writing Python code that uses control structures (`while` loops and `if` statements)
+- Running Python programs
+- Debugging Python programs
+- Technical writing in Markdown
+- Command line navigation
+- Using version control (Git)
+
+These assignment learning outcomes contribute to the following course learning outcomes described in the [course syllabus](https://github.com/cmpsc100-allegheny-college/course_information):
+
+1. Apply Python programming principles to execute and explain computer code that implements interactive, novel solutions to a variety of computable problems.
+2. Release code consistent with industry-standard practices using professional grade IDEs, command line tools, and version control tools.
+3. Analyze and suggest revisions to existing Python language code to improve or add functionality.
 
 ## Completing `hall-of-records` content
 
@@ -98,6 +114,31 @@ Here are some suggestions for improvements you can, **but are not limited to** u
 **Make sure to link your issue with the pull request you used to make your improvement.**
 
 **If you are not following an improvement suggestion you need to have your improvement suggestion checked by the professor before proceeding.**
+
+## Evaluating `hall of records` Content
+
+This is an individual assignment and each neighbor should submit their own completed assignment. Code should not look similar among any class members. As described in the [course contract](https://github.com/cmpsc100-allegheny-college/course_information/blob/main/CODE_OF_CONDUCT.md) members should not  share code and working solutions but instead should feel welcome to share tips and tricks, help each other in understanding core concepts, and plan, sketch, or otherwise draft general approaches.
+
+To receive a `Complete` status on this assignment, two conditions must be met:
+1. The assignment repository on GitHub must have a green check before the deadline;
+2. The assignment quiz must be taken and passed with at least 70% during class on November 6th, 2023
+  - The quiz will contain 10 short multiple choice questions
+  - The quiz can be taken up to three times
+  - The quiz is closed book, notes, Internet and must be taken during class time
+  - The quiz will assess the recognition of the following topics:
+    - list vs. dictionary data structure
+    - loops (`while` and `for`)
+    - conditionals (`if` statement)
+    - functions
+    - variables
+    - assignment statements
+    - expressions
+
+The content for this week is outfitted with a grader program that can be used to evaluate the first condition above for the week. To run the grader for this week's work, you will need to be in the topmost level of the assignment folder. Once there, run the command:
+
+`gatorgrade`
+
+The grader will take a few minutes to do its work, but once it's complete the program will populate your terminal window with a series of checks that gauge the overall "completeness" of some of your required work.
 
 ## Backup Policy Reminder
 
