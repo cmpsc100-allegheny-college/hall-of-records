@@ -2,7 +2,7 @@
 | Date              |          |
 |:------------------|:---------|
 | 1 November 2023| Assigned |
-| 6 November 2023 | Due      |
+| 8 November 2023 | Due      |
 | Status            | [![GatorGrader](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml) |
 
 # DATA DONE, MAYOR DECREES DECISIVE DEED: CITIZENS TO COMPUTE REPRESENTATIVE RESIDENT CRITERIA
